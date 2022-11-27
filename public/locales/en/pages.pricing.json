@@ -1,0 +1,31 @@
+{
+  "title": "Pricing",
+  "lead": "Quickly build an effective pricing table for your potential customers with this Bootstrap example. It’s built with default Bootstrap components and utilities with little customization.",
+  "perMonth": "/mo",
+  "plans": {
+    "free": {
+      "name": "Free",
+      "perk1": "10 users",
+      "perk2": "2 GB storage",
+      "perk3": "Email support",
+      "perk4": "Help Center access",
+      "cta": "Sign up for free"
+    },
+    "pro": {
+      "name": "Pro",
+      "perk1": "20 users",
+      "perk2": "10 GB storage",
+      "perk3": "Priority email support",
+      "perk4": "Help Center access",
+      "cta": "Get started"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "perk1": "30 users",
+      "perk2": "15 GB storage",
+      "perk3": "Phone and email support",
+      "perk4": "Help Center access",
+      "cta": "Contact us"
+    }
+  }
+}

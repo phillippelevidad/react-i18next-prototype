@@ -1,0 +1,17 @@
+{
+  "title": "Miscellaneous",
+  "textWithVariable": "My name is {{name}}",
+  "textWithLink": "Take a moment to visit [Google](https://www.google.com/)",
+  "textWithBold": "See my name in bold: **{{name}}**",
+  "pluralMessageTitle": "Plural: how many dogs do you have?",
+  "pluralMessage_zero": "You don't have any dogs",
+  "pluralMessage_one": "You have a dog",
+  "pluralMessage_other": "You have {{count}} dogs",
+  "contextMessageTitle": "Context: would you go to a haunted house?",
+  "contextMessage_yes": "Yes, absolutely!",
+  "contextMessage_no": "No way!",
+  "contextMessage_maybe": "Yeah, maybe I would, maybe not...",
+  "contextMessageOptions_yes": "Yes",
+  "contextMessageOptions_no": "No",
+  "contextMessageOptions_maybe": "Maybe"
+}

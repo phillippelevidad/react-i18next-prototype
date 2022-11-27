@@ -1,0 +1,18 @@
+{
+  "title": "Contact form",
+  "fields": {
+    "email": {
+      "label": "Email",
+      "placeholder": "example@acme.com",
+      "help": "We'll never share your email with anyone."
+    },
+    "subject": {
+      "label": "Subject",
+      "placeholder": "Please use 3 to 5 words"
+    },
+    "message": {
+      "label": "Message"
+    }
+  },
+  "submit": "Send"
+}

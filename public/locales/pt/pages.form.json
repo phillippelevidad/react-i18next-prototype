@@ -1,0 +1,18 @@
+{
+  "title": "Formulário de contato",
+  "fields": {
+    "email": {
+      "label": "Email",
+      "placeholder": "exemplo@dominio.com",
+      "help": "Seu email nunca será compartilhado com ninguém."
+    },
+    "subject": {
+      "label": "Assunto",
+      "placeholder": "Use 3 a 5 palavras"
+    },
+    "message": {
+      "label": "Mensagem"
+    }
+  },
+  "submit": "Enviar"
+}

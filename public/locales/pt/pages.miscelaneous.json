@@ -1,0 +1,17 @@
+{
+  "title": "Exemplos diversos",
+  "textWithVariable": "Meu nome é {{name}}",
+  "textWithLink": "Reserve um tempo para visitar o [Google](https://www.google.com/)",
+  "textWithBold": "Veja meu nome em negrito: **{{name}}**",
+  "pluralMessageTitle": "Plural: quantos cachorros você tem?",
+  "pluralMessage_zero": "Você não tem cachorro",
+  "pluralMessage_one": "Você tem um cachorro",
+  "pluralMessage_other": "Você tem {{count}} cachorros",
+  "contextMessageTitle": "Contexto: você iria numa casa mal-assombrada?",
+  "contextMessage_yes": "Sim, com certeza!",
+  "contextMessage_no": "Não, de jeito nenhum!",
+  "contextMessage_maybe": "É, quem sabe...",
+  "contextMessageOptions_yes": "Sim",
+  "contextMessageOptions_no": "Não",
+  "contextMessageOptions_maybe": "Talvez"
+}

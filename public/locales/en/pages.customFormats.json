@@ -1,0 +1,23 @@
+{
+  "title": "Custom formats",
+  "lead": "This demo comes with some custom formatters for numbers, date and time, added to i18next, making them easier to use and promoting standardazation.",
+  "integer": "{{value, integer}}",
+  "decimal": "{{value, decimal}}",
+  "decimal4": "{{value, decimal(4)}}",
+  "percent": "{{value, percent}}",
+  "percent2": "{{value, percent(2)}}",
+  "money": "{{value, money(BRL)}}",
+  "money4": "{{value, money(BRL; 4)}}",
+  "date": "{{-value, date}}",
+  "dateMedium": "{{value, date(medium)}}",
+  "dateLong": "{{value, date(long)}}",
+  "dateFull": "{{value, date(full)}}",
+  "time": "{{value, time}}",
+  "timeMedium": "{{value, time(medium)}}",
+  "timeLong": "{{value, time(long)}}",
+  "timeFull": "{{value, time(full)}}",
+  "datetime": "{{-value, datetime}}",
+  "datetimeMedium": "{{value, datetime(medium)}}",
+  "datetimeLong": "{{value, datetime(long)}}",
+  "datetimeFull": "{{value, datetime(full)}}"
+}

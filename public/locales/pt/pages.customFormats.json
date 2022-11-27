@@ -1,0 +1,23 @@
+{
+  "title": "Formatos personalizados",
+  "lead": "Esta demonstração conta com algumas funções de formatação personalizadas para números, data e hora, adicionadas ao i18n para facilitar e padronizar o uso.",
+  "integer": "{{value, integer}}",
+  "decimal": "{{value, decimal}}",
+  "decimal4": "{{value, decimal(4)}}",
+  "percent": "{{value, percent}}",
+  "percent2": "{{value, percent(2)}}",
+  "money": "{{value, money(BRL)}}",
+  "money4": "{{value, money(BRL; 4)}}",
+  "date": "{{-value, date}}",
+  "dateMedium": "{{value, date(medium)}}",
+  "dateLong": "{{value, date(long)}}",
+  "dateFull": "{{value, date(full)}}",
+  "time": "{{value, time}}",
+  "timeMedium": "{{value, time(medium)}}",
+  "timeLong": "{{value, time(long)}}",
+  "timeFull": "{{value, time(full)}}",
+  "datetime": "{{-value, datetime}}",
+  "datetimeMedium": "{{value, datetime(medium)}}",
+  "datetimeLong": "{{value, datetime(long)}}",
+  "datetimeFull": "{{value, datetime(full)}}"
+}

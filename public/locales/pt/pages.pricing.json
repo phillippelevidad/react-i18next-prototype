@@ -1,0 +1,31 @@
+{
+  "title": "Preços",
+  "lead": "Crie rapidamente uma tabela de preços eficaz para seus potenciais clientes com este exemplo de Bootstrap. É construído com componentes e utilitários padrão do Bootstrap com pouca personalização.",
+  "perMonth": "/mês",
+  "plans": {
+    "free": {
+      "name": "Grátis",
+      "perk1": "10 usuários",
+      "perk2": "2 GB de armazenamento",
+      "perk3": "Suporte por email",
+      "perk4": "Help Center",
+      "cta": "Use grátis"
+    },
+    "pro": {
+      "name": "Pro",
+      "perk1": "20 usuários",
+      "perk2": "10 GB de armazenamento",
+      "perk3": "Suporte prioritário por email",
+      "perk4": "Help Center",
+      "cta": "Comece já"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "perk1": "30 usuários",
+      "perk2": "15 GB de armazenamento",
+      "perk3": "Suporte por email e telefone",
+      "perk4": "Help Center",
+      "cta": "Entre em contato"
+    }
+  }
+}

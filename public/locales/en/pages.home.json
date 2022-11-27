@@ -1,0 +1,4 @@
+{
+  "title": "Home",
+  "lead": "This demo uses the [react-i18next](https://react.i18next.com/) library to supply translations and formatting to supported locales."
+}
