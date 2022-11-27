@@ -42,6 +42,35 @@ root.render(
 );
 ```
 
+**5)** Add your translations to the `public` folder like so:
+
+/public/locales/en/pages.home.json
+
+```json
+{
+  "helloWorld": "Hello world!"
+}
+```
+
+/public/locales/fr/pages.home.json
+
+```json
+{
+  "helloWorld": "Bonjour le monde!"
+}
+```
+
+**6)** And use your translations in your components like so:
+
+```jsx
+import { useTranslation } from "react-i18next";
+
+export function Home() {
+  const { t } = useTranslation("pages.home");
+  return <div>{t("helloWorld")}</div>;
+}
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
