@@ -2,7 +2,7 @@
 
 This demo shows how to use the [react-i18next](https://react.i18next.com/) library to supply translations and formatting to supported locales.
 
-See it live at [codesandbox.io](https://codesandbox.io).
+See it live at [codesandbox.io](https://codesandbox.io/p/github/phillippelevidad/react-i18next-prototype/main?file=%2FREADME.md).
 
 There's also the [react-intl-prototype](https://github.com/phillippelevidad/react-intl-prototype), but I think i18next has better tooling and community support.
 
@@ -44,7 +44,7 @@ root.render(
 
 **5)** Add your translations to the `public` folder like so:
 
-/public/locales/en/pages.home.json
+📄 /public/locales/en/pages.home.json
 
 ```json
 {
@@ -52,7 +52,7 @@ root.render(
 }
 ```
 
-/public/locales/fr/pages.home.json
+📄 /public/locales/fr/pages.home.json
 
 ```json
 {
